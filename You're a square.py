@@ -1,5 +1,5 @@
 #判断一个数是否为平方数
-
+#http://www.codewars.com/kata/youre-a-square/python
 '''
 Given an integral number, determine if it's a square number:
 
@@ -18,7 +18,7 @@ is_square  26 # => false
 
 #我的方法
 #1050ms
-def is_square(n):
+def is_square1(n):
   i = 1
   if n < 0:
     return False
@@ -35,5 +35,5 @@ def is_square(n):
 #203ms
 from math import sqrt
 
-def is_square(n):
+def is_square2(n):
     return n > 0 and sqrt(n).is_integer()

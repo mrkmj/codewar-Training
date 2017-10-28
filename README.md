@@ -2,4 +2,7 @@
 Some interesting practise
 
 1、You're a square!
-判断一个数是否为平方数http://www.codewars.com/kata/youre-a-square/python
+判断一个数是否为平方数http://www.codewars.com/kata/youre-a-square/train/python
+
+2、Highest and Lowest
+在一串含有数字的字符中，找出最大值最小值（int）返回https://www.codewars.com/kata/highest-and-lowest/train/python

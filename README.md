@@ -9,3 +9,6 @@ Some interesting practise
 
 3、Format a string of names like 'Bart, Lisa & Maggie'
 把例如([ {name: 'Bart'}, {name: 'Lisa'}, {name: 'Maggie'} ])这样子的返回'Bart, Lisa & Maggie'，https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie/train/python
+
+4、Stop gninnipS My sdroW!
+把一个句子中大于5个字符的字符串逆序如( "Hey fellow warriors" ) => returns "Hey wollef sroirraw"，https://www.codewars.com/kata/stop-gninnips-my-sdrow/train/python

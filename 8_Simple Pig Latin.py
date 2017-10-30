@@ -4,6 +4,7 @@ Move the first letter of each word to the end of it, then add 'ay' to the end of
 pig_it('Pig latin is cool') # igPay atinlay siay oolcay
 
 Ps:Only letters!!!!!!!!!
+example：['O tempora o mores !', 'Oay emporatay oay oresmay !'],
 '''
 
 #My bad code

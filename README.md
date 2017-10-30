@@ -12,3 +12,6 @@ Some interesting practise
 
 4、Stop gninnipS My sdroW!
 把一个句子中大于5个字符的字符串逆序如( "Hey fellow warriors" ) => returns "Hey wollef sroirraw"，https://www.codewars.com/kata/stop-gninnips-my-sdrow/train/python
+
+5、Unique In Order（itertools是什么。。。）
+不说明了https://www.codewars.com/kata/unique-in-order/train/python

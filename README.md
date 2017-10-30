@@ -28,3 +28,7 @@ https://www.codewars.com/kata/equal-sides-of-an-array/train/python
 7、Duplicate Encoder
 输入一串字符串，如何某一个字符出现1次以上，则变为‘）’，否则则变为‘（’。#不区分大小写
 https://www.codewars.com/kata/duplicate-encoder/train/python
+
+8、Simple Pig Latin
+输入一串字符，把字符中的单词的首字母放到最后并加上‘ay’，如pig_it('Pig latin is cool') # igPay atinlay siay oolcay，
+https://www.codewars.com/kata/simple-pig-latin/train/python

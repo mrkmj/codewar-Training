@@ -36,3 +36,7 @@ https://www.codewars.com/kata/simple-pig-latin/train/python
 9、Find the missing letter
 找出列表中连续字母中丢失的字母，并返回
 https://www.codewars.com/kata/find-the-missing-letter/train/python
+
+10、Is a number prime
+判断素数
+https://www.codewars.com/kata/is-a-number-prime/train/python

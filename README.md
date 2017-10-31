@@ -40,3 +40,7 @@ https://www.codewars.com/kata/find-the-missing-letter/train/python
 10、Is a number prime
 判断素数
 https://www.codewars.com/kata/is-a-number-prime/train/python
+
+11、Moving Zeros To The End（这题也很有趣）
+处理列表中的0，0.0并把它移动到列表最后
+https://www.codewars.com/kata/moving-zeros-to-the-end/train/python

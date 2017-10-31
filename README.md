@@ -32,3 +32,7 @@ https://www.codewars.com/kata/duplicate-encoder/train/python
 8、Simple Pig Latin
 输入一串字符，把字符中的单词的首字母放到最后并加上‘ay’，如pig_it('Pig latin is cool') # igPay atinlay siay oolcay，
 https://www.codewars.com/kata/simple-pig-latin/train/python
+
+9、Find the missing letter
+找出列表中连续字母中丢失的字母，并返回
+https://www.codewars.com/kata/find-the-missing-letter/train/python

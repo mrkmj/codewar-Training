@@ -48,3 +48,7 @@ https://www.codewars.com/kata/moving-zeros-to-the-end/train/python
 12、WeIrD StRiNg CaSe
 把字符串中偶数位的字母转为大写
 https://www.codewars.com/kata/weird-string-case/train/python
+
+13、Where my anagrams at
+判断两个单词中是否含有相同字母，如'abba' & 'baab' == true
+https://www.codewars.com/kata/where-my-anagrams-at/train/python

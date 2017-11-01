@@ -44,3 +44,7 @@ https://www.codewars.com/kata/is-a-number-prime/train/python
 11、Moving Zeros To The End（这题也很有趣）
 处理列表中的0，0.0并把它移动到列表最后
 https://www.codewars.com/kata/moving-zeros-to-the-end/train/python
+
+12、WeIrD StRiNg CaSe
+把字符串中偶数位的字母转为大写
+https://www.codewars.com/kata/weird-string-case/train/python

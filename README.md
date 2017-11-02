@@ -52,3 +52,7 @@ https://www.codewars.com/kata/weird-string-case/train/python
 13、Where my anagrams at
 判断两个单词中是否含有相同字母，如'abba' & 'baab' == true
 https://www.codewars.com/kata/where-my-anagrams-at/train/python
+
+14、IP Validation
+判断是否为合法的ip地址
+https://www.codewars.com/kata/ip-validation/train/python

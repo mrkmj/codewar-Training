@@ -56,3 +56,7 @@ https://www.codewars.com/kata/where-my-anagrams-at/train/python
 14、IP Validation
 判断是否为合法的ip地址
 https://www.codewars.com/kata/ip-validation/train/python
+
+15、Sudoku Solution Validator
+数独判断。（这题很有趣！！！！）
+https://www.codewars.com/kata/sudoku-solution-validator/train/python

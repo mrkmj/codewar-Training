@@ -65,3 +65,7 @@ https://www.codewars.com/kata/sudoku-solution-validator/train/python
 （这题很有意思……………………）
 if X[i] > X[j] then X[i] = X[i] - X[j]利用这个公式，算出一个数列中最小的和。
 https://www.codewars.com/kata/smallest-possible-sum/train/python
+
+17、How many numbers III?
+（无法解释）
+https://www.codewars.com/kata/how-many-numbers-iii/train/python

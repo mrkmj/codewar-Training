@@ -60,3 +60,8 @@ https://www.codewars.com/kata/ip-validation/train/python
 15、Sudoku Solution Validator
 数独判断。（这题很有趣！！！！）
 https://www.codewars.com/kata/sudoku-solution-validator/train/python
+
+16、Smallest possible sum
+（这题很有意思……………………）
+if X[i] > X[j] then X[i] = X[i] - X[j]利用这个公式，算出一个数列中最小的和。
+https://www.codewars.com/kata/smallest-possible-sum/train/python
